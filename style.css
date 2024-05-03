@@ -1,0 +1,34 @@
+#Godzilla-movies {
+  display: grid;
+  gap: var(--size-3);
+  grid-auto-flow: column;
+  grid-auto-columns: auto;
+
+  overflow-x: auto;
+  overscroll-behavior-inline: contain;
+}
+
+img {
+  height: 500px;
+  width: auto;
+}
+
+h1 {
+  text-align: right;
+  font-size: 50px;
+  color: white;
+  -webkit-text-stroke: black;
+  -webkit-text-stroke-width: 1px;
+  font-family: "Sans-Serif";
+  font-style: bold;
+}
+
+body {
+  background-image: url("https://cdn.openart.ai/stable_diffusion/14f5fc93a38dacb2e3696ce225e10df4ee7b2b29_2000x2000.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h2 {
+  color: white;
+}
