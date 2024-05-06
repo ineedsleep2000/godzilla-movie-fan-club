@@ -9,26 +9,38 @@
 }
 
 img {
-  height: 500px;
+  height: 200px;
   width: auto;
 }
 
 h1 {
-  text-align: right;
-  font-size: 50px;
-  color: white;
-  -webkit-text-stroke: black;
-  -webkit-text-stroke-width: 1px;
-  font-family: "Sans-Serif";
-  font-style: bold;
+  text-align: center;
 }
 
 body {
-  background-image: url("https://cdn.openart.ai/stable_diffusion/14f5fc93a38dacb2e3696ce225e10df4ee7b2b29_2000x2000.webp");
+  min-height: 100%;
+  height: 800px;
+  background-image: url("https://cdn.pixabay.com/photo/2017/09/06/13/56/armageddon-2721568_1280.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 h2 {
-  color: white;
+  color: rgb(255, 255, 255);
+}
+
+#selected-image-div {
+  width: 20%;
+  padding: 10%;
+  float: left;
+}
+
+#selected-description {
+  width: 30%;
+  padding: 30px;
+  float: left;
+  background-image: linear-gradient(
+    rgba(223, 2, 2, 0.88) 1%,
+    rgba(255, 255, 255, 0.857) 100%
+  );
 }

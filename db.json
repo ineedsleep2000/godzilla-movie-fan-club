@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Godzilla",
       "imageUrl": "https://wikizilla.org/w/images/4/4c/G54_b2_poster_sharper.jpg",
-      "year-of-release": "November 3, 1954",
+      "year": "November 3, 1954",
       "producer": "Toho",
       "director": "Ishiro Honda",
       "monsters": "Godzilla"
@@ -13,7 +13,7 @@
       "id": 2,
       "title": "Godzilla Raids Again",
       "imageUrl": "https://wikizilla.org/w/images/a/a3/Godzilla_Raids_Again_Poster_A.png",
-      "year-of-release": "April 24, 1955",
+      "year": "April 24, 1955",
       "producer": "Toho",
       "director": "Motoyoshi Oda",
       "monsters": ["Godzilla", "Anguirus"]
@@ -22,7 +22,7 @@
       "id": 3,
       "title": "King Kong vs. Godzilla",
       "imageUrl": "https://wikizilla.org/w/images/1/1f/King_Kong_vs._Godzilla_Poster_A.png",
-      "year-of-release": "August 11, 1962",
+      "year": "August 11, 1962",
       "producer": "Toho",
       "director": "Ishiro Honda",
       "monsters": ["Godzilla", "King Kong", "Giant Octopus", "Giant Lizard"]
@@ -31,7 +31,7 @@
       "id": 4,
       "title": "Mothra vs. Godzilla",
       "imageUrl": "https://wikizilla.org/w/images/d/da/Mothra_vs._Godzilla_Poster_A.png",
-      "year-of-release": "April 29, 1964",
+      "year": "April 29, 1964",
       "producer": "Toho",
       "director": "Ishiro Honda",
       "monsters": ["Godzilla", "Mothra (imago and larvae)", "Mysterious Bones"]
@@ -40,7 +40,7 @@
       "id": 5,
       "title": "Ghidorah, the Three-Headed Monster",
       "imageUrl": "https://wikizilla.org/w/images/9/96/Ghidorah_b2_better_quality.jpg",
-      "year-of-release": "November 3, December 20, 1964",
+      "year": "November 3, December 20, 1964",
       "producer": "Toho",
       "director": "Ishiro Honda",
       "monsters": ["Godzilla", "Mothra (larva)", "Rodan", "King Ghidorah"]
@@ -49,7 +49,7 @@
       "id": 6,
       "title": "Invasion of Astro-Monster",
       "imageUrl": "https://wikizilla.org/w/images/b/b3/Invasion_of_Astro-Monster_Poster_A.png",
-      "year-of-release": "December 19, 1965",
+      "year": "December 19, 1965",
       "producer": "Toho",
       "director": "Motoyoshi Oda",
       "monsters": ["Godzilla", "Anguirus"]
@@ -58,7 +58,7 @@
       "id": 7,
       "title": "Ebirah, Horror of the Deep",
       "imageUrl": "https://wikizilla.org/w/images/2/2f/Godzilla_vs_sea_monster_poster_01.jpg",
-      "year-of-release": "December 17, 1966",
+      "year": "December 17, 1966",
       "producer": "Toho",
       "director": "Ishiro Honda",
       "monsters": ["Godzilla", "King Kong", "Giant Octopus", "Giant Lizard"]
@@ -67,7 +67,7 @@
       "id": 8,
       "title": "Son of Godzilla",
       "imageUrl": "https://wikizilla.org/w/images/8/89/434px-Son_of_Godzilla_1967.jpg",
-      "year-of-release": "December 16, 1967",
+      "year": "December 16, 1967",
       "producer": "Toho",
       "director": "Ishiro Honda",
       "monsters": ["Godzilla", "Mothra (imago and larva)", "Mysterious Bones"]
@@ -76,7 +76,7 @@
       "id": 9,
       "title": "Destroy All Monsters",
       "imageUrl": "https://wikizilla.org/w/images/1/12/Destroy_all_monsters.jpg",
-      "year-of-release": "August 1, 1968",
+      "year": "August 1, 1968",
       "producer": "Toho",
       "director": "Ishiro Honda",
       "monsters": [
@@ -97,7 +97,7 @@
       "id": 10,
       "title": "All Monsters Attack",
       "imageUrl": "https://wikizilla.org/w/images/3/3a/Godzilla%27s_Revenge_1969.jpg",
-      "year-of-release": "April 24, 1955",
+      "year": "April 24, 1955",
       "producer": "Toho",
       "director": "Motoyoshi Oda",
       "monsters": [
@@ -113,7 +113,7 @@
       "id": 11,
       "title": "Godzilla vs. Hedorah",
       "imageUrl": "https://wikizilla.org/w/images/0/00/Godzilla_vs_Hedorah_1971.jpg",
-      "year-of-release": "July 24, 1971",
+      "year": "July 24, 1971",
       "producer": "Toho",
       "director": "Yoshimitsu Banno",
       "monsters": ["Godzilla", "Hedorah"]
@@ -122,7 +122,7 @@
       "id": 12,
       "title": "Godzilla vs. Gigan",
       "imageUrl": "https://wikizilla.org/w/images/b/b3/Godzilla_vs_Gigan_1972.jpg",
-      "year-of-release": "March 12, 1972",
+      "year": "March 12, 1972",
       "producer": ["Toho", "Toho Eizo"],
       "director": "Jun Fukuda",
       "monsters": ["Godzilla", "Gigan", "King Ghidorah", "Anguirus"]
@@ -131,7 +131,7 @@
       "id": 13,
       "title": "Godzilla vs. Megalon",
       "imageUrl": "https://wikizilla.org/w/images/1/10/Megalon-big.jpg",
-      "year-of-release": "March 17, 1973",
+      "year": "March 17, 1973",
       "producer": "Toho Eizo",
       "director": "Jun Fukuda",
       "monsters": ["Godzilla", "Megalon", "Gigan", "Jet Jaguar", "Anguirus"]
@@ -140,7 +140,7 @@
       "id": 14,
       "title": "Godzilla vs. Mechagodzilla",
       "imageUrl": "https://wikizilla.org/w/images/4/41/Godzilla_vs_Mechagodzilla_1974.jpg",
-      "year-of-release": "March 21, 1974",
+      "year": "March 21, 1974",
       "producer": "Toho Eizo",
       "director": "Jun Fukuda",
       "monsters": [
@@ -154,7 +154,7 @@
       "id": 15,
       "title": "Terror of Mechagodzilla",
       "imageUrl": "https://wikizilla.org/w/images/7/77/Terror_of_MechaGodzilla_1975.jpg",
-      "year-of-release": "March 15, 1975",
+      "year": "March 15, 1975",
       "producer": "Toho Eizo",
       "director": "Ishiro Honda",
       "monsters": ["Godzilla", "Mechagodzilla", "Titanosaurus"]
@@ -163,7 +163,7 @@
       "id": 16,
       "title": "The Return of Godzilla",
       "imageUrl": "https://wikizilla.org/w/thumb.php?f=The_Return_of_Godzilla_Poster_Japan_1.png&width=800",
-      "year-of-release": "December 15, 1984",
+      "year": "December 15, 1984",
       "producer": ["Toho Pictures", "Toho Pictures Toho Eizo"],
       "director": "Koji Hashimoto",
       "monsters": "Godzilla"
@@ -172,7 +172,7 @@
       "id": 17,
       "title": "Godzilla vs. Biollante",
       "imageUrl": "https://wikizilla.org/w/images/b/b7/Godzilla_vs._Biollante_Poster_Japan_2.png",
-      "year-of-release": "December 16, 1989",
+      "year": "December 16, 1989",
       "producer": ["Toho Pictures", "Toho Pictures Toho Eizo Bijutsu"],
       "director": "Kazuki Omori",
       "monsters": ["Godzilla", "Biollante"]
@@ -181,7 +181,7 @@
       "id": 18,
       "title": "Godzilla vs. King Ghidorah",
       "imageUrl": "https://wikizilla.org/w/images/d/d2/Gvskg01.jpg",
-      "year-of-release": "December 14, 1991",
+      "year": "December 14, 1991",
       "producer": ["Toho Pictures", "Toho Pictures Toho Eizo Bijutsu"],
       "director": "Kazuki Omori",
       "monsters": [
@@ -196,7 +196,7 @@
       "id": 19,
       "title": "Mothra vs. Godzilla",
       "imageUrl": "https://wikizilla.org/w/images/2/21/Gvm.jpg",
-      "year-of-release": "December 12, 1992",
+      "year": "December 12, 1992",
       "producer": ["Toho Pictures", "Toho Pictures Toho Eizo Bijutsu"],
       "director": "Takao Okawara",
       "monsters": [
@@ -209,7 +209,7 @@
       "id": 20,
       "title": "Godzilla vs. Mechagodzilla II",
       "imageUrl": "https://wikizilla.org/w/images/1/17/Godzilla-vs-mechagodzilla-movie-poster-1020433270.jpg",
-      "year-of-release": "December 11, 1993",
+      "year": "December 11, 1993",
       "producer": ["Toho Pictures", "Toho Pictures Toho Eizo Bijutsu"],
       "director": "Takao Okawara",
       "monsters": [
@@ -225,7 +225,7 @@
       "id": 21,
       "title": "Godzilla vs. SpaceGodzilla",
       "imageUrl": "https://wikizilla.org/w/images/9/9e/Godzilla_vs._SpaceGodzilla_Poster_B.png",
-      "year-of-release": "December 10, 1994",
+      "year": "December 10, 1994",
       "producer": ["Toho Pictures", "Toho Pictures Toho Eizo Bijutsu"],
       "director": "Kensho Yamashita",
       "monsters": [
@@ -241,7 +241,7 @@
       "id": 22,
       "title": "Godzilla vs. Destoroyah",
       "imageUrl": "https://wikizilla.org/w/images/5/5c/Godzilla.jp_-_22_-_Godzilla_vs._Destoroyah.jpg",
-      "year-of-release": "December 9, 1995",
+      "year": "December 9, 1995",
       "producer": ["Toho Pictures", "Toho Pictures Toho Eizo Bijutsu"],
       "director": "Takao Okawara",
       "monsters": ["Burning Godzilla", "Destoroyah", "Godzilla Junior"]
@@ -250,7 +250,7 @@
       "id": 23,
       "title": "Godzilla 2000: Millennium",
       "imageUrl": "https://wikizilla.org/w/images/a/af/Godzilla_2000_poster_01.jpg",
-      "year-of-release": "December 11, 1999",
+      "year": "December 11, 1999",
       "producer": "Toho Pictures",
       "director": "Takao Okawara",
       "monsters": ["Godzilla", "Millennian/Orga"]
@@ -259,7 +259,7 @@
       "id": 24,
       "title": "Godzilla vs. Megaguirus",
       "imageUrl": "https://wikizilla.org/w/images/1/1e/Godzilla_vs_megaguirus_poster_02.jpg",
-      "year-of-release": "December 16, 2000",
+      "year": "December 16, 2000",
       "producer": "Toho Pictures",
       "director": "Masaaki Tezuka",
       "monsters": ["Godzilla", "Megaguirus"]
@@ -268,7 +268,7 @@
       "id": 25,
       "title": "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack",
       "imageUrl": "https://wikizilla.org/w/images/0/05/2001_gmk_theatrical_poster.jpg",
-      "year-of-release": "December 15, 2001",
+      "year": "December 15, 2001",
       "producer": "Toho Pictures",
       "director": "Shusuke Kaneko",
       "monsters": [
@@ -282,7 +282,7 @@
       "id": 26,
       "title": "Godzilla Against Mechagodzilla",
       "imageUrl": "https://wikizilla.org/w/images/7/77/Godzilla_X_MechaGodzilla_Poster.jpg",
-      "year-of-release": "December 14, 2002",
+      "year": "December 14, 2002",
       "producer": "Toho Pictures",
       "director": "Masaaki Tezuka",
       "monsters": ["Godzilla", "Kiryu", "First Generation Godzilla"]
@@ -291,7 +291,7 @@
       "id": 27,
       "title": "Godzilla: Tokyo SOS",
       "imageUrl": "https://wikizilla.org/w/images/2/23/Gmmg-poster2.jpg",
-      "year-of-release": "December 13, 2003",
+      "year": "December 13, 2003",
       "producer": ["Toho", "Toho Pictures"],
       "director": "Masaaki Tezuka",
       "monsters": ["Godzilla", "Kiryu", "Mothra (imago and larvae)", "Kamoebas"]
@@ -300,7 +300,7 @@
       "id": 28,
       "title": "Godzilla Final Wars",
       "imageUrl": "https://wikizilla.org/w/images/b/b9/433248_1020_A.jpg",
-      "year-of-release": "December 4, 2004",
+      "year": "December 4, 2004",
       "producer": "Toho Pictures",
       "director": "Ryuhei Kitamura",
       "monsters": [
@@ -322,7 +322,7 @@
       "id": 29,
       "title": "Shin Godzilla",
       "imageUrl": "https://wikizilla.org/w/images/7/75/Shin_Gojira_Theatrical_Poster.jpg",
-      "year-of-release": "July 29, 2016",
+      "year": "July 29, 2016",
       "producer": ["Toho", "Toho Pictures Cine Bazar"],
       "director": ["Hideaki Anno, Shinji Higuchi"],
       "monsters": "Godzilla"
@@ -331,7 +331,7 @@
       "id": 30,
       "title": "Godzilla Minus One",
       "imageUrl": "https://wikizilla.org/w/images/c/c9/Godzilla_Minus_One_Japanese_poster.jpg",
-      "year-of-release": "November 3, 2023",
+      "year": "November 3, 2023",
       "producer": ["Toho", "TOHO Studios", "ROBOT"],
       "director": "Takashi Yamazaki",
       "monsters": "Godzilla"
