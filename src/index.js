@@ -62,3 +62,5 @@ movieReviewer.addEventListener("submit", (e) => {
   console.log(reviewInput);
   console.log(review);
 });
+
+console.log("hello its Brian!");
