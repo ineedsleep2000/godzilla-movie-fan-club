@@ -44,3 +44,7 @@ h2 {
     rgba(255, 255, 255, 0.857) 100%
   );
 }
+
+ul {
+  list-style-type: none;
+}
