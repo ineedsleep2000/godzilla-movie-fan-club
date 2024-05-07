@@ -3,6 +3,7 @@
     {
       "id": 1,
       "title": "Godzilla",
+      "description": "Godzilla rises from the Pacific to attack Tokyo in the definitive cinematic allegory for humankind’s disregard for nature and itself.",
       "imageUrl": "https://wikizilla.org/w/images/4/4c/G54_b2_poster_sharper.jpg",
       "year": "November 3, 1954",
       "producer": "Toho",
@@ -12,6 +13,7 @@
     {
       "id": 2,
       "title": "Godzilla Raids Again",
+      "description": "The spiny, ferocious kaiju Anguirus wreaks havoc on Osaka before facing Godzilla in this 1955 sequel.",
       "imageUrl": "https://wikizilla.org/w/images/a/a3/Godzilla_Raids_Again_Poster_A.png",
       "year": "April 24, 1955",
       "producer": "Toho",
@@ -21,6 +23,7 @@
     {
       "id": 3,
       "title": "King Kong vs. Godzilla",
+      "description": "It's a kaiju battle for the ages as the infamous King Kong is brought to Japan for a brutal brawl with Godzilla.",
       "imageUrl": "https://wikizilla.org/w/images/1/1f/King_Kong_vs._Godzilla_Poster_A.png",
       "year": "August 11, 1962",
       "producer": "Toho",
@@ -30,6 +33,7 @@
     {
       "id": 4,
       "title": "Mothra vs. Godzilla",
+      "description": "The mighty Mothra is summoned to stop a returning Godzilla’s rampage in the duo’s debut cinematic clash.",
       "imageUrl": "https://wikizilla.org/w/images/d/da/Mothra_vs._Godzilla_Poster_A.png",
       "year": "April 29, 1964",
       "producer": "Toho",
@@ -39,6 +43,7 @@
     {
       "id": 5,
       "title": "Ghidorah, the Three-Headed Monster",
+      "description": "Godzilla, Rodan, and Mothra join forces to save Earth from the three-headed alien invader kaiju, King Ghidorah.",
       "imageUrl": "https://wikizilla.org/w/images/9/96/Ghidorah_b2_better_quality.jpg",
       "year": "November 3, December 20, 1964",
       "producer": "Toho",
@@ -48,6 +53,7 @@
     {
       "id": 6,
       "title": "Invasion of Astro-Monster",
+      "description": "While exploring Planet X, two astronauts witness attacks by the dreaded Monster Zero, launching an intergalactic battle between kaiju and humankind.",
       "imageUrl": "https://wikizilla.org/w/images/b/b3/Invasion_of_Astro-Monster_Poster_A.png",
       "year": "December 19, 1965",
       "producer": "Toho",
@@ -57,6 +63,7 @@
     {
       "id": 7,
       "title": "Ebirah, Horror of the Deep",
+      "description": "The citizens of Letchi Island call on Godzilla and Mothra to save them from the Red Bamboo terrorist group and the crustacean kaiju, Ebirah.",
       "imageUrl": "https://wikizilla.org/w/images/2/2f/Godzilla_vs_sea_monster_poster_01.jpg",
       "year": "December 17, 1966",
       "producer": "Toho",
@@ -66,6 +73,7 @@
     {
       "id": 8,
       "title": "Son of Godzilla",
+      "description": "When secret weather-control experiments create a radioactive storm, Godzilla must rescue loveable kaiju hatchling Minilla from giant bugs.",
       "imageUrl": "https://wikizilla.org/w/images/8/89/434px-Son_of_Godzilla_1967.jpg",
       "year": "December 16, 1967",
       "producer": "Toho",
@@ -75,6 +83,7 @@
     {
       "id": 9,
       "title": "Destroy All Monsters",
+      "description": "Earth's kaiju are confined to Monster Island until alien forces cause them to break free and rampage across world capitals.",
       "imageUrl": "https://wikizilla.org/w/images/1/12/Destroy_all_monsters.jpg",
       "year": "August 1, 1968",
       "producer": "Toho",
@@ -96,6 +105,7 @@
     {
       "id": 10,
       "title": "All Monsters Attack",
+      "description": "A boy named Ichiro befriends Godzilla’s adopted son Minilla as they learn how to confront their respective bullies.",
       "imageUrl": "https://wikizilla.org/w/images/3/3a/Godzilla%27s_Revenge_1969.jpg",
       "year": "April 24, 1955",
       "producer": "Toho",
@@ -112,6 +122,7 @@
     {
       "id": 11,
       "title": "Godzilla vs. Hedorah",
+      "description": "Godzilla takes on smog monster Hedorah, a kaiju perpetuating the perils of humankind’s pollution.",
       "imageUrl": "https://wikizilla.org/w/images/0/00/Godzilla_vs_Hedorah_1971.jpg",
       "year": "July 24, 1971",
       "producer": "Toho",
@@ -121,6 +132,7 @@
     {
       "id": 12,
       "title": "Godzilla vs. Gigan",
+      "description": "Godzilla and Anguirus defend Earth from a space kaiju summoned by evil aliens disguised as theme park employees.",
       "imageUrl": "https://wikizilla.org/w/images/b/b3/Godzilla_vs_Gigan_1972.jpg",
       "year": "March 12, 1972",
       "producer": ["Toho", "Toho Eizo"],
@@ -130,6 +142,7 @@
     {
       "id": 13,
       "title": "Godzilla vs. Megalon",
+      "description": "Jet Jaguar teams up with Godzilla in a battle to defend humankind from subterranean monster Megalon, and the returning space kaiju, Gigan.",
       "imageUrl": "https://wikizilla.org/w/images/1/10/Megalon-big.jpg",
       "year": "March 17, 1973",
       "producer": "Toho Eizo",
@@ -139,6 +152,7 @@
     {
       "id": 14,
       "title": "Godzilla vs. Mechagodzilla",
+      "description": "When Earth-hungry aliens unleash the robotic Mechagodzilla on humankind, only King Caesar, and Godzilla can stop it.",
       "imageUrl": "https://wikizilla.org/w/images/4/41/Godzilla_vs_Mechagodzilla_1974.jpg",
       "year": "March 21, 1974",
       "producer": "Toho Eizo",
@@ -153,6 +167,7 @@
     {
       "id": 15,
       "title": "Terror of Mechagodzilla",
+      "description": "Godzilla must once again face its alien-built metallic adversary Mechagodzilla, along with mad scientist-controlled kaiju, Titanosaurus.",
       "imageUrl": "https://wikizilla.org/w/images/7/77/Terror_of_MechaGodzilla_1975.jpg",
       "year": "March 15, 1975",
       "producer": "Toho Eizo",
@@ -162,6 +177,7 @@
     {
       "id": 16,
       "title": "The Return of Godzilla",
+      "description": "A new Godzilla’s Tokyo rampage triggers world panic and the threat of nuclear war in a story evocative of the original 1954 Godzilla.",
       "imageUrl": "https://wikizilla.org/w/thumb.php?f=The_Return_of_Godzilla_Poster_Japan_1.png&width=800",
       "year": "December 15, 1984",
       "producer": ["Toho Pictures", "Toho Pictures Toho Eizo"],
@@ -171,6 +187,7 @@
     {
       "id": 17,
       "title": "Godzilla vs. Biollante",
+      "description": "Misguided genetic engineering and human greed wreaks havoc as Godzilla is forced to defend Earth from plant-hybrid kaiju Biollante.",
       "imageUrl": "https://wikizilla.org/w/images/b/b7/Godzilla_vs._Biollante_Poster_Japan_2.png",
       "year": "December 16, 1989",
       "producer": ["Toho Pictures", "Toho Pictures Toho Eizo Bijutsu"],
@@ -180,6 +197,7 @@
     {
       "id": 18,
       "title": "Godzilla vs. King Ghidorah",
+      "description": "Godzilla confronts archnemesis King Ghidorah in a cataclysmic, time-transcending battle for the fate of Earth's future.",
       "imageUrl": "https://wikizilla.org/w/images/d/d2/Gvskg01.jpg",
       "year": "December 14, 1991",
       "producer": ["Toho Pictures", "Toho Pictures Toho Eizo Bijutsu"],
@@ -195,6 +213,7 @@
     {
       "id": 19,
       "title": "Mothra vs. Godzilla",
+      "description": "The majestic Mothra returns to confront fellow moth Battra, along with Godzilla in this complex multi-kaiju melee.",
       "imageUrl": "https://wikizilla.org/w/images/2/21/Gvm.jpg",
       "year": "December 12, 1992",
       "producer": ["Toho Pictures", "Toho Pictures Toho Eizo Bijutsu"],
@@ -208,6 +227,7 @@
     {
       "id": 20,
       "title": "Godzilla vs. Mechagodzilla II",
+      "description": "Godzilla squares off against an all-new incarnation of Mechagodzilla, the pinnacle of human engineering built to defeat the King of the Monsters.",
       "imageUrl": "https://wikizilla.org/w/images/1/17/Godzilla-vs-mechagodzilla-movie-poster-1020433270.jpg",
       "year": "December 11, 1993",
       "producer": ["Toho Pictures", "Toho Pictures Toho Eizo Bijutsu"],
@@ -224,6 +244,7 @@
     {
       "id": 21,
       "title": "Godzilla vs. SpaceGodzilla",
+      "description": "Godzilla, Little Godzilla, and humankind’s mecha M.O.G.U.E.R.A battle space-born psychic monstrosity SpaceGodzilla to save Earth.",
       "imageUrl": "https://wikizilla.org/w/images/9/9e/Godzilla_vs._SpaceGodzilla_Poster_B.png",
       "year": "December 10, 1994",
       "producer": ["Toho Pictures", "Toho Pictures Toho Eizo Bijutsu"],
@@ -240,6 +261,7 @@
     {
       "id": 22,
       "title": "Godzilla vs. Destoroyah",
+      "description": "A war-weathered Godzilla and Godzilla Junior face a foe born of the aftermath of 1954’s Godzilla in an apocalyptic battle with the evil kaiju Destoroyah.",
       "imageUrl": "https://wikizilla.org/w/images/5/5c/Godzilla.jp_-_22_-_Godzilla_vs._Destoroyah.jpg",
       "year": "December 9, 1995",
       "producer": ["Toho Pictures", "Toho Pictures Toho Eizo Bijutsu"],
@@ -249,6 +271,7 @@
     {
       "id": 23,
       "title": "Godzilla 2000: Millennium",
+      "description": "A new era begins as alien creature Orga attempts to harvest Godzilla’s DNA in a hyper-adaptive kaiju clash.",
       "imageUrl": "https://wikizilla.org/w/images/a/af/Godzilla_2000_poster_01.jpg",
       "year": "December 11, 1999",
       "producer": "Toho Pictures",
@@ -258,6 +281,7 @@
     {
       "id": 24,
       "title": "Godzilla vs. Megaguirus",
+      "description": "When a black hole weapon releases prehistoric insects in modern Japan, humankind relies on Godzilla’s might to protect them from Megaguirus.",
       "imageUrl": "https://wikizilla.org/w/images/1/1e/Godzilla_vs_megaguirus_poster_02.jpg",
       "year": "December 16, 2000",
       "producer": "Toho Pictures",
@@ -267,6 +291,7 @@
     {
       "id": 25,
       "title": "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack",
+      "description": "Godzilla battles Mothra, King Ghidorah, and Baragon as the Guardian Monsters fight to protect Japan from total annihilation.",
       "imageUrl": "https://wikizilla.org/w/images/0/05/2001_gmk_theatrical_poster.jpg",
       "year": "December 15, 2001",
       "producer": "Toho Pictures",
@@ -281,6 +306,7 @@
     {
       "id": 26,
       "title": "Godzilla Against Mechagodzilla",
+      "description": "Humankind confronts the King of the Monsters with a biomechanical Mechagodzilla known as Kiryu, built on the bones of the original 1954 Godzilla.",
       "imageUrl": "https://wikizilla.org/w/images/7/77/Godzilla_X_MechaGodzilla_Poster.jpg",
       "year": "December 14, 2002",
       "producer": "Toho Pictures",
@@ -290,6 +316,7 @@
     {
       "id": 27,
       "title": "Godzilla: Tokyo SOS",
+      "description": "Mechagodzilla (aka Kiryu) and Mothra team up to protect Japan from Godzilla's latest rampage, but a sacrifice must be made in order to restore peace.",
       "imageUrl": "https://wikizilla.org/w/images/2/23/Gmmg-poster2.jpg",
       "year": "December 13, 2003",
       "producer": ["Toho", "Toho Pictures"],
@@ -299,6 +326,7 @@
     {
       "id": 28,
       "title": "Godzilla Final Wars",
+      "description": "It’s the ultimate kaiju extravaganza as Godzilla battles a series of fan-favorite monsters before a decisive confrontation with a merciless new foe.",
       "imageUrl": "https://wikizilla.org/w/images/b/b9/433248_1020_A.jpg",
       "year": "December 4, 2004",
       "producer": "Toho Pictures",
@@ -321,6 +349,7 @@
     {
       "id": 29,
       "title": "Shin Godzilla",
+      "description": "An unlikely task force races to stop the metamorphic rampage of a new Godzilla before Japan is swallowed up in the process.",
       "imageUrl": "https://wikizilla.org/w/images/7/75/Shin_Gojira_Theatrical_Poster.jpg",
       "year": "July 29, 2016",
       "producer": ["Toho", "Toho Pictures Cine Bazar"],
@@ -330,6 +359,7 @@
     {
       "id": 30,
       "title": "Godzilla Minus One",
+      "description": "In postwar Japan, a new terror rises; Godzilla. Will the devastated people be able to survive... let alone fight back?",
       "imageUrl": "https://wikizilla.org/w/images/c/c9/Godzilla_Minus_One_Japanese_poster.jpg",
       "year": "November 3, 2023",
       "producer": ["Toho", "TOHO Studios", "ROBOT"],
