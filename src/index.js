@@ -14,7 +14,8 @@ const selectedMovieDescription = document.querySelector(
   "#selected-description"
 );
 const movieReviewer = document.querySelector("#movieReviewer");
-
+const reviewInput = document.querySelector("#review-input");
+const review = document.querySelector("#review");
 /////////////////////
 //render function, along with movie bar events
 /////////////////////
@@ -56,9 +57,15 @@ function renderGodzilla(movie) {
 
 movieReviewer.addEventListener("submit", (e) => {
   e.preventDefault();
-  const reviewInput = document.querySelector("#review-input");
-  const review = document.querySelector("#review");
-  review.textContent = reviewInput.value;
-  console.log(reviewInput);
-  console.log(review);
+  // review.textContent = reviewInput.value;
+  //console.log(reviewInput);
+  //console.log(review);
+
+  const li = document.createElement("li");
+  console.log(li);
+  li.textContent = "User: " + reviewInput.value;
+  console.log(li);
+  const ul = document.querySelector("ul");
+  console.log(ul);
+  ul.append(li);
 });
