@@ -69,3 +69,6 @@ movieReviewer.addEventListener("submit", (e) => {
   console.log(ul);
   ul.append(li);
 });
+
+
+console.log("nick was here workin on the project gimme some credit yo")
