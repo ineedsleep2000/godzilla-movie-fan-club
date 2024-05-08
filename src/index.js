@@ -32,15 +32,20 @@ function renderGodzilla(movie) {
       selectedMovieImg.src = movie.imageUrl;
       selectedMovieImg.style.transform = "scale(2.25)";
 
+      const selectedMovieTitle = document.querySelector("#movie-title");
+      const selectedMovieDescription =
+        document.querySelector("#movie-description");
       const selectedMovieYear = document.querySelector("#movie-year");
       const selectedMovieProducer = document.querySelector("#movie-producer");
       const selectedMovieDirector = document.querySelector("#movie-director");
       const selectedMovieMonster = document.querySelector("#movie-monster");
+      selectedMovieTitle.textContent = movie.title;
       selectedMovieYear.textContent = "Year of Release: " + movie.year;
       selectedMovieProducer.textContent = "Movie Producer: " + movie.producer;
       selectedMovieDirector.textContent = "Movie Director: " + movie.director;
       selectedMovieMonster.textContent =
         "Monster Appearances: " + movie.monsters;
+      selectedMovieDescription.textContent = movie.description;
     });
     //movie bar mouseout event
     godzillaImages.addEventListener("mouseout", (e) => {
