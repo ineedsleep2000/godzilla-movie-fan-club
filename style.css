@@ -1,29 +1,44 @@
+.container {
+  width: 100%;
+  overflow-x: auto;
+}
+
 #Godzilla-movies {
   display: grid;
   gap: var(--size-3);
   grid-auto-flow: column;
   grid-auto-columns: auto;
-
   overflow-x: auto;
   overscroll-behavior-inline: contain;
+  height: 300px; /* Adjust container height as needed */
+  width: 100%; /* Ensure container fills the available space */
+  overflow-y: auto; /* Allow vertical overflow */
 }
 
 img {
-  height: 200px;
+  height: 200px; /* Set a fixed height for images */
   width: auto;
+  transition: transform 0.5s ease; /* Add smooth transition for scaling */
+}
+
+#Godzilla-movies img:hover {
+  transform: scale(1.5); /* Scale images on hover */
+  z-index: 1; /* Ensure the hovered image is above other images */
+  overflow-y: visible; /* Allow vertical overflow */
+  transform-origin: center top; /* Set transform origin to center top */
 }
 
 h1 {
   text-align: center;
 }
 
-  body {
-    background-image: url("https://cdn.pixabay.com/photo/2017/09/06/13/56/armageddon-2721568_1280.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center center;
-  }
+body {
+  background-image: url("https://cdn.pixabay.com/photo/2017/09/06/13/56/armageddon-2721568_1280.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+}
 
 h2 {
   color: rgb(255, 255, 255);
@@ -45,27 +60,10 @@ h2 {
   );
 }
 
-ul {
-  list-style-type: none;
+#selected-img {
+  max-width: 100%; /* Ensure the image doesn't exceed the container width */
 }
 
-#movie-title {
-  font-size: 40px;
-}
-#movie-year {
-  font-size: 15px;
-  display: flex;
-}
-#movie-producer {
-  font-size: 15px
-  display: flex;
-}
-#movie-director {
-  font-size: 15px;
-}
-#movie-monster {
-  font-size: 15px;
-}
-#movie-description {
-  font-size: 20px;
+ul {
+  list-style-type: none;
 }
