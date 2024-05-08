@@ -17,12 +17,12 @@ h1 {
   text-align: center;
 }
 
-  body {
-    background-image: url("https://cdn.pixabay.com/photo/2017/09/06/13/56/armageddon-2721568_1280.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center center;
+body {
+  background-image: url("https://cdn.pixabay.com/photo/2017/09/06/13/56/armageddon-2721568_1280.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
   }
 
 h2 {
@@ -57,7 +57,7 @@ ul {
   display: flex;
 }
 #movie-producer {
-  font-size: 15px
+  font-size: 15px;
   display: flex;
 }
 #movie-director {
