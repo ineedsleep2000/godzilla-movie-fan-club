@@ -10,22 +10,22 @@
   grid-auto-columns: auto;
   overflow-x: auto;
   overscroll-behavior-inline: contain;
-  height: 300px; /* Adjust container height as needed */
-  width: 100%; /* Ensure container fills the available space */
-  overflow-y: auto; /* Allow vertical overflow */
+  height: 300px;
+  width: 100%;
+  overflow-y: auto;
 }
 
 img {
-  height: 200px; /* Set a fixed height for images */
+  height: 200px;
   width: auto;
-  transition: transform 0.5s ease; /* Add smooth transition for scaling */
+  transition: transform 0.5s ease;
 }
 
 #Godzilla-movies img:hover {
-  transform: scale(1.5); /* Scale images on hover */
-  z-index: 1; /* Ensure the hovered image is above other images */
-  overflow-y: visible; /* Allow vertical overflow */
-  transform-origin: center top; /* Set transform origin to center top */
+  transform: scale(1.5);
+  z-index: 1;
+  overflow-y: visible;
+  transform-origin: center top;
 }
 
 h1 {
@@ -61,7 +61,7 @@ h2 {
 }
 
 #selected-img {
-  max-width: 100%; /* Ensure the image doesn't exceed the container width */
+  max-width: 100%;
 }
 
 ul {
