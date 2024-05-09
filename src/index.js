@@ -57,7 +57,7 @@ movieReviewer.addEventListener("submit", (e) => {
   e.preventDefault();
   const li = document.createElement("li");
   console.log(li);
-  li.textContent = "User: " + reviewInput.value;
+  li.textContent = movie.title;
   console.log(li);
   const ul = document.querySelector("ul");
   console.log(ul);
