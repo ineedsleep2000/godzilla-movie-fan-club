@@ -67,3 +67,24 @@ h2 {
 ul {
   list-style-type: none;
 }
+
+#movie-title {
+  font-size: 25px;
+}
+
+#movie-description {
+  font-size: 20px;
+}
+
+#movie-year {
+  font-size: 15px;
+}
+#movie-producer {
+  font-size: 15px;
+}
+#movie-director {
+  font-size: 15px;
+}
+#movie-monster {
+  font-size: 15px;
+}
